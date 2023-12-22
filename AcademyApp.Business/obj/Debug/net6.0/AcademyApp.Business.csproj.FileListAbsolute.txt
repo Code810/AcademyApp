@@ -1,0 +1,17 @@
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\bin\Debug\net6.0\AcademyApp.Business.deps.json
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\bin\Debug\net6.0\AcademyApp.Business.dll
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\bin\Debug\net6.0\AcademyApp.Business.pdb
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\bin\Debug\net6.0\AcademyApp.DataContext.dll
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\bin\Debug\net6.0\AcademyApp.Domain.dll
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\bin\Debug\net6.0\AcademyApp.DataContext.pdb
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\bin\Debug\net6.0\AcademyApp.Domain.pdb
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.csproj.AssemblyReference.cache
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.AssemblyInfoInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.AssemblyInfo.cs
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.csproj.CopyComplete
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.dll
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\obj\Debug\net6.0\refint\AcademyApp.Business.dll
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\obj\Debug\net6.0\AcademyApp.Business.pdb
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Business\obj\Debug\net6.0\ref\AcademyApp.Business.dll

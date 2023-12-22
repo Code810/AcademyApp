@@ -1,0 +1,73 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AcademyApp/1.0.0": {
+        "dependencies": {
+          "AcademyApp.Business": "1.0.0",
+          "AcademyApp.Helper": "1.0.0"
+        },
+        "runtime": {
+          "AcademyApp.dll": {}
+        }
+      },
+      "AcademyApp.Business/1.0.0": {
+        "dependencies": {
+          "AcademyApp.DataContext": "1.0.0"
+        },
+        "runtime": {
+          "AcademyApp.Business.dll": {}
+        }
+      },
+      "AcademyApp.DataContext/1.0.0": {
+        "dependencies": {
+          "AcademyApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AcademyApp.DataContext.dll": {}
+        }
+      },
+      "AcademyApp.Domain/1.0.0": {
+        "runtime": {
+          "AcademyApp.Domain.dll": {}
+        }
+      },
+      "AcademyApp.Helper/1.0.0": {
+        "runtime": {
+          "AcademyApp.Helper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AcademyApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcademyApp.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcademyApp.DataContext/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcademyApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AcademyApp.Helper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

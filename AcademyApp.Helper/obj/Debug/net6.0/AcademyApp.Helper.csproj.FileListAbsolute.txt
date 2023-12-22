@@ -1,0 +1,11 @@
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Helper\bin\Debug\net6.0\AcademyApp.Helper.deps.json
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Helper\bin\Debug\net6.0\AcademyApp.Helper.dll
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Helper\bin\Debug\net6.0\AcademyApp.Helper.pdb
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Helper\obj\Debug\net6.0\AcademyApp.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Helper\obj\Debug\net6.0\AcademyApp.Helper.AssemblyInfoInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Helper\obj\Debug\net6.0\AcademyApp.Helper.AssemblyInfo.cs
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Helper\obj\Debug\net6.0\AcademyApp.Helper.csproj.CoreCompileInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Helper\obj\Debug\net6.0\AcademyApp.Helper.dll
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Helper\obj\Debug\net6.0\refint\AcademyApp.Helper.dll
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Helper\obj\Debug\net6.0\AcademyApp.Helper.pdb
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.Helper\obj\Debug\net6.0\ref\AcademyApp.Helper.dll

@@ -1,0 +1,15 @@
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.DataContext\bin\Debug\net6.0\AcademyApp.DataContext.deps.json
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.DataContext\bin\Debug\net6.0\AcademyApp.DataContext.dll
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.DataContext\bin\Debug\net6.0\AcademyApp.DataContext.pdb
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.DataContext\bin\Debug\net6.0\AcademyApp.Domain.dll
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.DataContext\bin\Debug\net6.0\AcademyApp.Domain.pdb
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.DataContext\obj\Debug\net6.0\AcademyApp.DataContext.csproj.AssemblyReference.cache
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.DataContext\obj\Debug\net6.0\AcademyApp.DataContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.DataContext\obj\Debug\net6.0\AcademyApp.DataContext.AssemblyInfoInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.DataContext\obj\Debug\net6.0\AcademyApp.DataContext.AssemblyInfo.cs
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.DataContext\obj\Debug\net6.0\AcademyApp.DataContext.csproj.CoreCompileInputs.cache
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.DataContext\obj\Debug\net6.0\AcademyApp.DataContext.csproj.CopyComplete
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.DataContext\obj\Debug\net6.0\AcademyApp.DataContext.dll
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.DataContext\obj\Debug\net6.0\refint\AcademyApp.DataContext.dll
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.DataContext\obj\Debug\net6.0\AcademyApp.DataContext.pdb
+C:\Users\seidb\OneDrive\Masaüstü\AcademyApp\AcademyApp\AcademyApp.DataContext\obj\Debug\net6.0\ref\AcademyApp.DataContext.dll
