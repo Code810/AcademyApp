@@ -14,7 +14,7 @@ namespace AcademyApp.Business.Interface
         List<Student> GetAll(int age);
         Student Get(int id);
         Student Delete(int id);
-        Student Update(int id,Student student);
+        Student Update(int id,Student student,string groupName);
         Student Create(Student student, string groupName);
     }
 }

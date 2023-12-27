@@ -1,8 +1,9 @@
-﻿using System;
+﻿using AcademyApp.Domain.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Text.RegularExpressions;
+
 using System.Threading.Tasks;
 
 namespace AcademyApp.Business.Interface
@@ -13,7 +14,7 @@ namespace AcademyApp.Business.Interface
         List<Group> GetAll(int size);
         Group Get(int id);
         Group Get(string  name);
-        Group Creat(Group group, string groupName);
+        Group Creat(Group group);
         Group Update(int id, Group group,string groupName);
         Group Delete(int id);
 

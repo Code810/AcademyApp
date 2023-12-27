@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿
 
-namespace AcademyApp.Helper
+namespace AcademyApp.Helpers
 {
     public  class Helper
     {
@@ -14,5 +10,30 @@ namespace AcademyApp.Helper
             Console.WriteLine(message);
             Console.ResetColor();
         }
+    }
+    public enum StartMenus
+    {
+        Exit,
+        Studens,
+        Groups
+    }
+    public enum StudentMenus
+    {
+        Home,
+        CreatStudent,
+        GetAllStudents,
+        GetAllStudentsWithName,
+        GetStudentById,
+        UpdateStudentById,
+        DeleteStudentById
+    }
+    public enum GroupMenus
+    {
+        Home,
+        CreatGroup ,
+        GetAllGroups,
+        GetGroupById,
+        UpdateGroup,
+        DeleteGroup
     }
 }

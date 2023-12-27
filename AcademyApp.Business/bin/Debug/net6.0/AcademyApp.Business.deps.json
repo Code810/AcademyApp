@@ -8,7 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "AcademyApp.Business/1.0.0": {
         "dependencies": {
-          "AcademyApp.DataContext": "1.0.0"
+          "AcademyApp.DataContext": "1.0.0",
+          "AcademyApp.Helper": "1.0.0"
         },
         "runtime": {
           "AcademyApp.Business.dll": {}

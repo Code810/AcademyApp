@@ -54,12 +54,41 @@ namespace AcademyApp.Business.Servicess
 
         public Student Delete(int id)
         {
-            throw new NotImplementedException();
+            var existStudent = _studentRepository.Get(s => s.Id == id);
+            if (existStudent is null) return null;
+            if (_studentRepository.Delete(existStudent))
+            {
+                return existStudent;
+            }
+            else
+            {
+                return null;
+            }
         }
 
-        public Student Update(int id, Student student)
+        public Student Update(int id, Student student, string groupName)
         {
-            throw new NotImplementedException();
+            var existStudent = _studentRepository.Get(s=>s.Id==id);
+            if (existStudent is null) return null;
+            var existGroup=_groupRepository.Get(g=>g.Name==groupName);
+            if (existGroup is null) return null;
+            if (!string.IsNullOrEmpty(student.Name))
+            {
+                existStudent.Name = student.Name;
+            }
+            if (!string.IsNullOrEmpty(student.Surname))
+            {
+                existStudent.Surname = student.Surname;
+            }
+             existStudent.Group=student.Group;
+            if (_studentRepository.Update(existStudent))
+            {
+                return existStudent;
+            }
+            else
+            {
+                return null;
+            }
         }
     }
 }

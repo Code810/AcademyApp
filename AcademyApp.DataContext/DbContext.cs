@@ -4,11 +4,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace AcademyApp.DataContext
 {
     public static class DbContext
     {
+       
        public static List<Student> Students { get; set; }
        public static List<Group> Groups { get; set; }
         static DbContext()
